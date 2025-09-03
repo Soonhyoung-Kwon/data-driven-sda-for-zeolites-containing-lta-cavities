@@ -1,3 +1,6 @@
 [submodule "external/zeosyn_dataset"]
 	path = external/zeosyn_dataset
 	url = https://github.com/eltonpan/zeosyn_dataset.git
+[submodule "ISDA_SHAP/zeosyn_dataset"]
+	path = ISDA_SHAP/zeosyn_dataset
+	url = https://github.com/eltonpan/zeosyn_dataset.git
