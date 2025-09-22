@@ -38,3 +38,7 @@ The dataset is an updated version from ZeoSyn:
 
 The code in this repo has been tested on a Jupyterlab and Jupyter Notebook running Python v.3.11.11.
 
+## 3) Preprint Information
+
+The preprint of this paper is available at (https://doi.org/10.26434/chemrxiv-2025-d7qzq)
+
