@@ -1,0 +1,22 @@
+[project]
+name = "data-driven-sda-for-zeolites-containing-lta-cavities"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ase>=3.26.0",
+    "imageio>=2.37.0",
+    "ipython>=8.37.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.6",
+    "numpy>=2.2.6",
+    "pandas>=2.3.2",
+    "pymatgen>=2025.6.14",
+    "rdkit>=2025.3.6",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+    "shap>=0.48.0",
+    "tqdm>=4.67.1",
+]
