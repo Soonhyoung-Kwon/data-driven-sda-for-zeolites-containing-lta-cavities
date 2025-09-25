@@ -25,4 +25,4 @@ Affiliations:
 §Present address: Department of Chemical Engineering, Purdue University, West Lafayette, IN 47907, USA.
 
 # Installation
-Please refer to the main page at [here](https://github.com/eltonpan/zeosyn_dataset/tree/master)
+Please refer to the main page [here](https://github.com/eltonpan/zeosyn_dataset/tree/master).
